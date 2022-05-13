@@ -1,4 +1,5 @@
 import React from "react"
+import "./index.css"
 import Main from "./components/Main"
 import Navbar from "./components/Navbar"
 
