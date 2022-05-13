@@ -49,6 +49,9 @@ main
 {
     padding: 57px 27px;
     color: white;
+    background-image: url("./images/reactjs-icon 2.png");
+    background-repeat: no-repeat;
+    background-position: right 75%;
 }
 
 .main--title
@@ -68,4 +71,11 @@ main
 {
     line-height: 19px;
     padding-block: 10px;
+    font-size: 20px;
+}
+
+.main--facts > li::marker
+{
+    font-size: 1.7rem;
+    color: #61DAFB;
 }
